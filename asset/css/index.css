@@ -40,7 +40,7 @@
 }
 .profile1 a:hover{
 	text-decoration: none;
-	color: white;
+	color: white!important;
 }
 .taylor{
 	text-transform: uppercase;
@@ -73,12 +73,80 @@
 }
 .email a:hover{
 color:#860814;
+text-decoration: underline;
 }
 .content1{
-	font-size:1.75rem;
+	font-size:1.55rem;
 	margin-left: 300px;
 	font-family: 'Saira Extra Condensed',serif;
 	letter-spacing: 1px;
 	color: #868e96;
 	font-family: 'Open Sans',serif;
+}
+.social_media_icon ul{
+       margin-left: 300px;
+       display: flex;
+       color: #868e96;
+       list-style:none;
+}
+.fa {
+  padding: 13px;
+  font-size: 26px;
+  text-align: center;
+  text-decoration: none;
+  margin: 5px 2px;
+  border-radius: 50%;
+  margin-left: 20px;
+}
+.fa-facebook {
+  background:#495057;
+  color: white;
+  }
+  .icons a:visited,a:active,a:link{
+  	text-decoration: none;
+     color: white;
+  }
+.icons{
+	margin-left: 280px;
+	margin-top: -10px;
+}
+.fa-twitter {
+  background:#495057;
+  color: white;
+  }
+  .fa-linkedin {
+  background:#495057;
+  color: white;
+  }
+  .fa-github {
+  background:#495057;
+  color: white;
+  }
+  .fa:hover{
+  	background-color: #bd5d38;
+  }
+  .experience{
+	text-transform: uppercase;
+	font-size:50px;
+	margin-left: 310px;
+	margin-top: 20px;
+	font-weight: 900;
+	font-family: 'Saira Extra Condensed',serif;
+	letter-spacing: 1px;
+}
+ #developer{
+	text-transform: uppercase;
+	font-size:30px;
+	margin-left: 310px;
+	font-weight: 900;
+	font-family: 'Saira Extra Condensed',serif;
+	
+}
+#march_2013{
+	color: #c15d52;
+	margin-left: 550px;
+	font-size: 18px;
+	font-family: 'Open Sans',serif;
+	letter-spacing: 1px;
+
 }
