@@ -390,7 +390,7 @@ text-decoration: underline;
 }
 li a:active,a:visited,a:link{
 	color:#e6a48a;
-	background-color: transparent;
+	
 }
 .nav a:hover{
 	color:white!important;
