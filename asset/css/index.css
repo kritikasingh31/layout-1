@@ -1,9 +1,12 @@
+body{
+	box-sizing: border-box;
+	margin: 0;
+	overflow-x: hidden;
+}
 .content{
      background-color: #bd5d38;
      height: 100%;
      width: 270px;
-     position: fixed;
-
 }
 .profile{
 	width: 160px;
@@ -45,8 +48,7 @@
 .taylor{
 	text-transform: uppercase;
 	font-size:90px;
-	margin-left: 300px;
-	margin-top: 160px;
+	margin-top: 140px;
 	font-weight: 900;
 	font-family: 'Saira Extra Condensed',serif;
 	letter-spacing: 1px;
@@ -60,7 +62,6 @@
 .address{
 	text-transform: uppercase;
 	font-size:2.15rem;
-	margin-left: 300px;
 	font-family: 'Saira Extra Condensed',serif;
 	letter-spacing: 1.5px;
 	color: #868e96;
@@ -77,14 +78,11 @@ text-decoration: underline;
 }
 .content1{
 	font-size:1.55rem;
-	margin-left: 300px;
-	font-family: 'Saira Extra Condensed',serif;
 	letter-spacing: 1px;
 	color: #868e96;
 	font-family: 'Open Sans',serif;
 }
 .social_media_icon ul{
-       margin-left: 300px;
        display: flex;
        color: #868e96;
        list-style:none;
@@ -107,7 +105,6 @@ text-decoration: underline;
      color: white;
   }
 .icons{
-	margin-left: 280px;
 	margin-top: -10px;
 }
 .fa-twitter {
@@ -128,7 +125,6 @@ text-decoration: underline;
   .experience{
 	text-transform: uppercase;
 	font-size:50px;
-	margin-left: 310px;
 	margin-top: 20px;
 	font-weight: 900;
 	font-family: 'Saira Extra Condensed',serif;
@@ -137,16 +133,244 @@ text-decoration: underline;
  #developer{
 	text-transform: uppercase;
 	font-size:30px;
-	margin-left: 310px;
 	font-weight: 900;
 	font-family: 'Saira Extra Condensed',serif;
 	
 }
 #march_2013{
 	color: #c15d52;
-	margin-left: 550px;
-	font-size: 18px;
+	margin-left: 560px;
+	font-size: 16px;
 	font-family: 'Open Sans',serif;
 	letter-spacing: 1px;
 
+}
+.solutions{
+	text-transform: uppercase;
+	font-size:22px;
+	font-family: 'Saira Extra Condensed',serif;
+	color: #868e96;
+	margin-top: -10px;
+}
+.sol1{
+	font-size:1.55rem;
+	letter-spacing: 1px;
+	color: #868e96;
+	font-family: 'Open Sans',serif;
+}
+.March{
+	color: #c15d52;
+	
+	font-size: 15px;
+	font-family: 'Open Sans',serif;
+	letter-spacing: 1px;
+}
+#webdeveloper{
+    text-transform: uppercase;
+	font-size:30px;
+	font-weight: 900;
+	font-family: 'Saira Extra Condensed',serif;
+	margin-top: 150px;
+}
+#dec_2013{
+	margin-left: 550px;
+	font-size: 16px;
+	font-family: 'Open Sans',serif;
+	letter-spacing: 1px;
+	color: #c15d52;
+}
+#july_2013{
+	margin-left: 520px;
+	font-size: 16px;
+	font-family: 'Open Sans',serif;
+	letter-spacing: 1px;
+	color: #c15d52;
+}
+#sep_2013{
+	margin-left: 530px;
+	font-size: 16px;
+	font-family: 'Open Sans',serif;
+	letter-spacing: 1px;
+	color: #c15d52;
+}
+.education{
+	text-transform: uppercase;
+	font-size:50px;
+	margin-top: 80px;
+	font-weight: 900;
+	font-family: 'Saira Extra Condensed',serif;
+	letter-spacing: 1px;
+}
+#university{
+	text-transform: uppercase;
+	font-size:30px;
+	font-weight: 900;
+	font-family: 'Saira Extra Condensed',serif;
+}
+#august_2013{
+	margin-left: 430px;
+	font-size: 16px;
+	font-family: 'Open Sans',serif;
+	letter-spacing: 1px;
+	color: #c15d52;
+}
+#aug_2013{
+	margin-left: 470px;
+	font-size: 16px;
+	font-family: 'Open Sans',serif;
+	letter-spacing: 1px;
+	color: #c15d52;
+}
+.colored{
+	color: #868e96 !important;
+}
+.devicon a:hover{
+	color: red;
+}
+.skills{
+	text-transform: uppercase;
+	font-size:50px;
+	margin-top: 80px;
+	font-weight: 900;
+	font-family: 'Saira Extra Condensed',serif;
+	letter-spacing: 1px;
+}
+.devicon-html5-plain{
+	margin-left:20px;
+	font-size: 40px;
+} 
+.devicon-css3-plain{
+    margin-left:20px;
+	font-size: 40px;
+}
+.devicon-javascript-plain{
+   margin-left:20px;
+   font-size: 40px;
+}
+.devicon-jquery-plain {
+   margin-left:20px;
+	font-size: 40px;
+}
+.devicon-sass-original{
+   margin-left:20px;
+	font-size: 40px;
+}
+.devicon-less-plain-wordmark{
+    margin-left:20px;
+	font-size: 40px;
+}
+.devicon-bootstrap-plain{
+    margin-left:20px;
+	font-size: 40px;
+}
+.devicon-wordpress-plain{
+    margin-left:20px;
+	font-size: 40px;
+	
+}
+.devicon-grunt-plain{
+    margin-left:20px;
+	font-size: 40px;
+	
+}
+.devicon-gulp-plain{
+   margin-left:20px;
+	font-size: 40px;
+	
+}
+.workflow{
+	text-transform: uppercase;
+	font-size:22px;
+	font-family: 'Saira Extra Condensed',serif;
+	color: #868e96;
+	margin-top: 30px;
+	margin-left: 20px;
+}
+#skills1{
+	font-size:17px;
+	font-family: 'Open Sans',serif;
+	color: #868e96;
+	margin-top: 30px;
+	margin-left: 10px;
+}
+.glyphicon{
+	margin-left: 35px;
+	color: #868e96;
+	font-size: 15px;
+
+}
+.interest{
+	text-transform: uppercase;
+	font-size:50px;
+	margin-top: 150px;
+	font-weight: 900;
+	font-family: 'Saira Extra Condensed',serif;
+	letter-spacing: 1px;
+}
+.interest1{
+    font-size:1.55rem;
+	letter-spacing: 1px;
+	color: #868e96;
+	font-family: 'Open Sans',serif;
+}
+.awards{
+	text-transform: uppercase;
+	font-size:50px;
+	margin-top: 150px;
+	font-weight: 900;
+	font-family: 'Saira Extra Condensed',serif;
+	letter-spacing: 1px;
+}
+.trophy{
+	color: #ffc107;
+	font-size: 18px;
+	margin-left:5px;
+}
+.awards_info{
+	font-size:1.55rem;
+	letter-spacing: 1px;
+	color: #868e96;
+	font-family: 'Open Sans',serif;
+}
+.awards_info1{
+	font-size:1.55rem;
+	letter-spacing: 1px;
+	color: #868e96;
+	font-family: 'Open Sans',serif;
+	margin-top: -40px;
+}
+.awards_info2{
+	font-size:1.55rem;
+	letter-spacing: 1px;
+	color: #868e96;
+	font-family: 'Open Sans',serif;
+	margin-top: -40px;
+}
+.awards_info3{
+	font-size:1.55rem;
+	letter-spacing: 1px;
+	color: #868e96;
+	font-family: 'Open Sans',serif;
+	margin-top: -40px;
+}
+.awards_info4{
+	font-size:1.55rem;
+	letter-spacing: 1px;
+	color: #868e96;
+	font-family: 'Open Sans',serif;
+	margin-top: -40px;
+}
+.awards_info5{
+	font-size:1.55rem;
+	letter-spacing: 1px;
+	color: #868e96;
+	font-family: 'Open Sans',serif;
+	margin-top: -40px;
+}
+.awards_info6{
+	font-size:1.55rem;
+	letter-spacing: 1px;
+	color: #868e96;
+	font-family: 'Open Sans',serif;
+	margin-top: -40px;
 }
