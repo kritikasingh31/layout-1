@@ -7,6 +7,8 @@ body{
      background-color: #bd5d38;
      height: 100%;
      width: 270px;
+     
+
 }
 .profile{
 	width: 160px;
@@ -119,7 +121,7 @@ text-decoration: underline;
   background:#495057;
   color: white;
   }
-  .fa:hover{
+ .icons .fa:hover{
   	background-color: #bd5d38;
   }
   .experience{
@@ -327,50 +329,70 @@ text-decoration: underline;
 	margin-left:5px;
 }
 .awards_info{
-	font-size:1.55rem;
+	font-size:16px;
 	letter-spacing: 1px;
 	color: #868e96;
 	font-family: 'Open Sans',serif;
 }
 .awards_info1{
-	font-size:1.55rem;
+	font-size:16px;
 	letter-spacing: 1px;
 	color: #868e96;
 	font-family: 'Open Sans',serif;
 	margin-top: -40px;
 }
 .awards_info2{
-	font-size:1.55rem;
+	font-size:16px;
 	letter-spacing: 1px;
 	color: #868e96;
 	font-family: 'Open Sans',serif;
 	margin-top: -40px;
 }
 .awards_info3{
-	font-size:1.55rem;
+	font-size:16px;
 	letter-spacing: 1px;
 	color: #868e96;
 	font-family: 'Open Sans',serif;
 	margin-top: -40px;
 }
 .awards_info4{
-	font-size:1.55rem;
+	font-size:16px;
 	letter-spacing: 1px;
 	color: #868e96;
 	font-family: 'Open Sans',serif;
 	margin-top: -40px;
 }
 .awards_info5{
-	font-size:1.55rem;
+	font-size:16px;
 	letter-spacing: 1px;
 	color: #868e96;
 	font-family: 'Open Sans',serif;
 	margin-top: -40px;
 }
 .awards_info6{
-	font-size:1.55rem;
+	font-size:16px;
 	letter-spacing: 1px;
 	color: #868e96;
 	font-family: 'Open Sans',serif;
 	margin-top: -40px;
+}
+.navbar-toggle{
+	background-color: #bd5d38;
+	border:1px solid white;
+}
+.navbar{
+	background-color: #bd5d38;
+	margin: 0;
+	border:0;
+}
+.icon-bar{
+	background-color: white;
+}
+li a:active,a:visited,a:link{
+	color:#e6a48a;
+	background-color: transparent;
+}
+.nav a:hover{
+	color:white!important;
+	background-color: transparent!important;
 }
