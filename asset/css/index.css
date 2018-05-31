@@ -5,11 +5,12 @@ body{
 }
 .content{
      background-color: #bd5d38;
-     height: 100vh;
-     width:300px;
+     height: 100%;
+     width:270px;
      position: fixed;
      margin: 0;
      padding: 0;
+
      
 
 }
@@ -407,4 +408,22 @@ li a:active,a:visited,a:link{
 }
 .colored:hover{
 	color:#bd5d38!important;
+}
+#experience{
+	outline: none!important;
+}
+#about{
+	outline: none!important;
+}
+#education{
+	outline: none!important;
+}
+#skills{
+	outline: none!important;
+}
+#interests{
+	outline: none!important;
+}
+#awards{
+	outline: none!important;
 }
