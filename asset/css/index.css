@@ -328,7 +328,7 @@ text-decoration: underline;
 }
 .trophy{
 	color: #ffc107;
-	font-size: 18px;
+	font-size: 16px;
 	margin-left:5px;
 }
 .awards_info{
@@ -344,7 +344,7 @@ text-decoration: underline;
     line-height: 1.5;;
 	color: #868e96;
 	font-family: 'Open Sans',serif;
-	margin-top: -40px;
+	margin-top: -50px;
 }
 .awards_info2{
 	font-size: 1.55rem;
@@ -352,14 +352,14 @@ text-decoration: underline;
     line-height: 1.5;
 	color: #868e96;
 	font-family: 'Open Sans',serif;
-	margin-top: -40px;
+	margin-top: -50px;
 }
 .awards_info3{
 	font-size:16px;
 	letter-spacing: 1px;
 	color: #868e96;
 	font-family: 'Open Sans',serif;
-	margin-top: -40px;
+	margin-top: -50px;
 }
 .awards_info4{
 	font-size: 1.55rem;
@@ -367,7 +367,7 @@ text-decoration: underline;
     line-height: 1.5;
 	color: #868e96;
 	font-family: 'Open Sans',serif;
-	margin-top: -40px;
+	margin-top: -50px;
 }
 .awards_info5{
 	font-size: 1.55rem;
@@ -375,7 +375,7 @@ text-decoration: underline;
     line-height: 1.5;
 	color: #868e96;
 	font-family: 'Open Sans',serif;
-	margin-top: -40px;
+	margin-top: -50px;
 }
 .awards_info6{
 	font-size: 1.55rem;
@@ -383,7 +383,7 @@ text-decoration: underline;
     line-height: 1.5;
 	color: #868e96;
 	font-family: 'Open Sans',serif;
-	margin-top: -40px;
+	margin-top: -50px;
 }
 .navbar-toggle{
 	background-color: #bd5d38;
