@@ -16,8 +16,9 @@ target.focus(); // Set focus again
 };
 });
 }
-$("#myscrollspy a").on('click',smoothScroll);
+$("#myScrollspy a").on('click',smoothScroll);
 $(".navbar-brand a").on('click',smoothScroll);
+$("#myNavbar a").on('click',smoothScroll);
 $(document).scroll(function(){
   $(".navbar").toggleClass("nav-small",$(this).scrollTop()>100);
   $(".logo-image").toggleClass("logo-image2",$(this).scrollTop()>100);
