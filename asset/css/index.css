@@ -57,7 +57,6 @@ body{
 	margin-top: 140px;
 	font-weight: 900;
 	font-family: 'Saira Extra Condensed',serif;
-	letter-spacing: 1px;
 }
 .clarence{
 	color: #343a40;
@@ -69,7 +68,6 @@ body{
 	text-transform: uppercase;
 	font-size:2.15rem;
 	font-family: 'Saira Extra Condensed',serif;
-	letter-spacing: 1.5px;
 	color: #868e96;
 	font-weight: 500;
 	line-height: -6px;
@@ -144,7 +142,6 @@ text-decoration: underline;
 }
 .March{
 	color: #c15d52;
-	
 	font-size: 15px;
 	font-family: 'Open Sans',serif;
 	letter-spacing: 1px;
@@ -209,7 +206,27 @@ text-decoration: underline;
     margin-left:20px;
 	font-size: 40px;
 }
+.devicon-c-plain{
+    margin-left:20px;
+	font-size: 40px;
+}
+.devicon-cplusplus-plain{
+    margin-left:20px;
+	font-size: 40px;
+}
+.devicon-python-plain{
+    margin-left:20px;
+	font-size: 40px;
+}
+.devicon-java-plain{
+    margin-left:20px;
+	font-size: 50px;
+}
 
+.devicon-mysql-plain-wordmark{
+	margin-left:20px;
+	font-size: 70px;
+}
 .workflow{
 	text-transform: uppercase;
 	font-size:22px;
